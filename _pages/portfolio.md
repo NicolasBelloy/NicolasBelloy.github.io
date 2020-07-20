@@ -1,0 +1,14 @@
+---
+title: Portfolio
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
