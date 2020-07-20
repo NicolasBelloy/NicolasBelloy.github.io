@@ -2,8 +2,8 @@
 permalink: /
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/2.jpg
+  caption: "Photo credit: N.Belloy"
 categories:
   - Layout
   - Uncategorized
