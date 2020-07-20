@@ -103,19 +103,25 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.univ-reims.fr/medyc"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/NBelloy"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NicolasBelloy"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label : "Pubmed"
+      icon: "fas fa-fw fa-link"
+      #url:
+    - label : "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      #url:
+    - label : "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      #url:
+    - label : "Orcid"
+      icon: "fas fa-fw fa-link"
+      #url:
 
 # Site Footer
 footer:
