@@ -1,6 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Layout: Header Image (Horizontal)"
+header:
+  image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories:
+  - Layout
+  - Uncategorized
+tags:
+  - edge case
+  - featured image
+  - image
+  - layout
 excerpt: "About me"
 author_profile: true
 redirect_from: 
