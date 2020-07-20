@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "fr-FR"
 title                    : "NB Personal gh-pages"
 title_separator          : "-"
-subtitle                 : "NB"
+subtitle                 : ""
 name                     : "Nicolas Belloy"
-description              : "An amazing website."
+description              : "A personal website."
 url                      : https://nicolasbelloy.github.io
 baseurl                  : ""
 repository               : "NicolasBelloy/minimal-mistakes"
@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "Nicolas Belloy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Reims"
+  bio              : "Research Engineer at Univ. Reims Champagne Ardenne"
+  location         : "Reims, France"
   email            :
   links:
     - label: "Email"
