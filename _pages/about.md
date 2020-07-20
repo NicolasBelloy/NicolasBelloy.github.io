@@ -2,7 +2,7 @@
 permalink: /
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /assets/header.jpeg
+  image: /assets/images/header.jpeg
   caption: "Photo credit: N.Belloy"
 categories:
   - Layout
