@@ -116,8 +116,8 @@ author:
     - label : "Google Scholar"
       icon: "fas fa-fw fa-link"
       #url:
-    - label : "Linkedin"
-      icon: "fa fa-fw fa-linkedin-square"
+    - label : "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nicolas-belloy-6b071a1/"
     - label : "ResearchGate"
       icon: "ai ai-researchgate ai-fw"
