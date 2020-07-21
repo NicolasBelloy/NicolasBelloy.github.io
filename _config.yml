@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-link"
       #url:
     - label : "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fa fa-linkedin-square fa-fw"
       url: "https://www.linkedin.com/in/nicolas-belloy-6b071a1/"
     - label : "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
