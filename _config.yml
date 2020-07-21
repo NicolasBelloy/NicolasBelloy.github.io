@@ -117,13 +117,13 @@ author:
       icon: "fas fa-fw fa-link"
       #url:
     - label : "LinkedIn"
-      icon: "fa fa-linkedin-square fa-fw"
+      icon: "fa fa-linkedin fa-fw"
       url: "https://www.linkedin.com/in/nicolas-belloy-6b071a1/"
     - label : "ResearchGate"
-      icon: "ai ai-researchgate-square ai-fw"
+      icon: "ai ai-researchgate ai-fw"
       url: "https://www.researchgate.net/profile/Nicolas_Belloy"
     - label : "Orcid"
-      icon: "ai ai-orcid-square ai-fw"
+      icon: "ai ai-orcid ai-fw"
       url: "https://orcid.org/0000-0002-6003-3184"
 
 # Site Footer
