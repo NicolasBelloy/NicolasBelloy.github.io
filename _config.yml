@@ -101,7 +101,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "MEDyC Lab website"
       icon: "fas fa-fw fa-link"
       url: "https://www.univ-reims.fr/medyc"
     - label: "Twitter"
@@ -113,9 +113,6 @@ author:
     - label : "Pubmed"
       icon: "ai ai-pubmed-square ai-fw"
       url: "https://pubmed-ncbi-nlm-nih-gov.insb.bib.cnrs.fr/?term=Belloy+N"
-    - label : "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      #url:
     - label : "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nicolas-belloy-6b071a1/"
