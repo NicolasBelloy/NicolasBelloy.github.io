@@ -111,17 +111,20 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NicolasBelloy"
     - label : "Pubmed"
-      icon: "fas fa-fw fa-link"
-      #url:
+      icon: "ai ai-pubmed ai-fw"
+      url: "https://pubmed-ncbi-nlm-nih-gov.insb.bib.cnrs.fr/?term=Belloy+N"
     - label : "Google Scholar"
       icon: "fas fa-fw fa-link"
       #url:
     - label : "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      #url:
+      icon: "ai ai-linkedin-square ai-fw"
+      url: "https://www.linkedin.com/in/nicolas-belloy-6b071a1/"
+    - label : "ResearchGate"
+      icon: "ai ai-researchgate-square ai-fw"
+      url: "https://www.researchgate.net/profile/Nicolas_Belloy"
     - label : "Orcid"
-      icon: "fas fa-fw fa-link"
-      #url:
+      icon: "ai ai-orcid-square ai-fw"
+      url: "https://orcid.org/0000-0002-6003-3184"
 
 # Site Footer
 footer:
