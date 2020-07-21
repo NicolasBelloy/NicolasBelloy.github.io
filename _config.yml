@@ -111,7 +111,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NicolasBelloy"
     - label : "Pubmed"
-      icon: "ai ai-pubmed ai-fw"
+      icon: "ai ai-pubmedsquare ai-fw"
       url: "https://pubmed-ncbi-nlm-nih-gov.insb.bib.cnrs.fr/?term=Belloy+N"
     - label : "Google Scholar"
       icon: "fas fa-fw fa-link"
@@ -122,8 +122,8 @@ author:
     - label : "ResearchGate"
       icon: "ai ai-researchgate ai-fw"
       url: "https://www.researchgate.net/profile/Nicolas_Belloy"
-    - label : "Orcid"
-      icon: "ai ai-orcid ai-fw"
+    - label : "orcid"
+      icon: "ai ai-orcid-square ai-fw"
       url: "https://orcid.org/0000-0002-6003-3184"
 
 # Site Footer
